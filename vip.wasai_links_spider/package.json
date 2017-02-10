@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "casperjs": "^1.1.3",
+    "lodash": "^4.17.3",
+    "phantomjs": "^2.1.7"
+  }
+}
